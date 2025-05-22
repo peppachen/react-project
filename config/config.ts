@@ -29,6 +29,11 @@ export default defineConfig({
       path: '/table',
       component: './Table',
     },
+    {
+      name: ' Hooks',
+      path: '/hooks',
+      component: './Hooks',
+    },
   ],
   npmClient: 'pnpm',
 });
